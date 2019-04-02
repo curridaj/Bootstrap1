@@ -2,3 +2,6 @@
     color:gold;
     text-shadow:4px 2px 5px purple;
 }
+.table-hover tr:hover{
+    color:gray;
+}
