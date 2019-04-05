@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+
+div{
+    
+    height:200px;
+    background-color:black;
+    margin:10px;
+   
+}
+
